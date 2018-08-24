@@ -2,7 +2,7 @@ package practice1;
 //下列语句会打印出什么结果？给出解释。
 /*
  *@author gqh
- * @date 2018/08/23
+ * @date 2017/08/23
  */
 public class Test2 {
     public static void main(String[] args) {

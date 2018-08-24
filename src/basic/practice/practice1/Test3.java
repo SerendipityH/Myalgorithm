@@ -10,7 +10,7 @@ import java.util.Scanner;
 //是给出这个方法的其他实现方法。
 /*
  *@author gqh
- * @date 2018/08/23
+ * @date 2017/08/23
  */
 public class Test3 {
     public static void main(String[] args) {

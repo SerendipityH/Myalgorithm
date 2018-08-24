@@ -8,7 +8,7 @@ import java.util.Scanner;
 //编写一个程序，从命令行得到三个整数参数。如果它们都相等则打印     equal，否则打印 not equal。
 /*
 *@author gqh
-* @date 2018/08/23
+* @date 2017/08/23
 */
 public class Test1 {
     public static void main(String[] args) {
