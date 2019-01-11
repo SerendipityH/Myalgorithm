@@ -29,7 +29,7 @@ public class SelectionSort {
 	
 	public static void main(String args[]) {
 		// TODO Auto-generated method stub
-		int arr[]= {5,4,1,2,6,7,4,9,8};
+		int arr[]= {5,4,1,2,6,7,4,9,8,0};
 		selectionSort(arr);
 		for(int i:arr) {
 			System.out.print(i+" ");
