@@ -1,4 +1,4 @@
-package com.algorithm.basic;
+package src.com.algorithm.basic;
 
 /**
  * 冒泡排序

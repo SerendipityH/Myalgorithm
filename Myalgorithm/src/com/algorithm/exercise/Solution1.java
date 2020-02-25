@@ -1,4 +1,4 @@
-package com.algorithm.exercise;
+package src.com.algorithm.exercise;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ import java.util.Scanner;
 10
 输出
 2
- * @author gqh
+ * @author serendipity
  *
  */
 public class Solution1 {
